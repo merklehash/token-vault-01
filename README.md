@@ -17,4 +17,4 @@ python token_manager.py
 ```
 
 No dependencies — standard library only (`json`, `os`, `uuid`, `datetime`).
-> Yes, it's a JSON file.
+
